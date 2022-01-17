@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="|`6T32BNH;M.%[!2+!$y" x="0" y="0"/><block type="device_button_event" id="#tHBWEP)?.o89#SkM4i]" x="413" y="18"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="ZCiI$bZJ;Kn8:F@DZJ,r"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_pause" id=")ilf$4P=#*ff+l%b2gv|"><value name="pause"><shadow type="timePicker" id="?BKejTv)9|0[I4Vfs|{@"><field name="ms">3000</field></shadow></value><next><block type="device_clear_display" id="}WfNP$#D+/CDXtV}uoU|"/></next></block></next></block></statement></block><block type="device_button_event" id="~!-^Ebh:lg3IFl}r0*2Z" x="698" y="18"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="HrnaN@[K(8l)J``@A1%s"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_pause" id="bs+h4nd2K;n!Wh|o-fIK"><value name="pause"><shadow type="timePicker" id="J4X@K,1hSMEB|Z9r3Ql."><field name="ms">3000</field></shadow></value><next><block type="device_clear_display" id="xMTEKcpN]qtq+qQz(rBV"/></next></block></next></block></statement></block><block type="device_button_event" id="=}!We^X%iX6*RiTAA.ie" x="988" y="19"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="6*^Rhv*^?1o30#jEo4Y3"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . # . . 
+        # # . # # 
+        # # . # #
+        `</field><next><block type="device_pause" id="~z((%U70J[DCNAgqeyA6"><value name="pause"><shadow type="timePicker" id="IFAjR]Sp94*h$:~=%!X."><field name="ms">3000</field></shadow></value><next><block type="device_clear_display" id="4E!`;%Sxr[=+ieoBJEjZ"/></next></block></next></block></statement></block><block type="device_forever" id="dJj)1jG1KD@Z?1WL3[u^" x="-12" y="153"/></xml>
